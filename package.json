@@ -1,0 +1,23 @@
+{
+  "name": "ard-sumobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtex/ard-sumobot.git"
+  },
+  "author": "Donovan Buck <donovan@donovan.bz>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtex/ard-sumobot/issues"
+  },
+  "homepage": "https://github.com/dtex/ard-sumobot#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.60",
+    "keypress": "^0.2.1"
+  }
+}
